@@ -6,4 +6,6 @@ description: A Wonderful Beginning
 twitter_username: newgirl
 github_username: newgirl12
 
+# Build settings
+markdown: kramdown
 theme: minima
